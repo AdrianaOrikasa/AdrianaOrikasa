@@ -40,7 +40,7 @@
    
   <!-- TWITCH -->
    
- 	<a href="https://www.twitch.tv/naahmy" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
   <!-- E-MAIL -->
    
