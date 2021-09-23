@@ -7,9 +7,18 @@
 
 <div align="left">
   <a href="https://github.com/AdrianaOrikasa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianaOrikasa&show_icons=true&theme=Gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianaOrikasa&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaOrikasa&layout=compact&langs_count=7&theme=omni"/>
 </div>
+  
+!--  omni: {
+    title_color: "FF79C6",
+    icon_color: "e7de79",
+    text_color: "E1E1E6",
+    bg_color: "191622",
+  },
+  
+  --!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
