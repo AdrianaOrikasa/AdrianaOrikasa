@@ -11,11 +11,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaOrikasa&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   
-<!--  omni: {
-    title_color: "FF79C6",
-    icon_color: "e7de79",
-    text_color: "E1E1E6",
-    bg_color: "191622",
+<!--   "vue-dark": {
+    title_color: "41b883",
+    icon_color: "41b883",
+    text_color: "fffefe",
+    bg_color: "273849",
   },
   
   -->
