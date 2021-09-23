@@ -10,14 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaOrikasa&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   
-<!--   "vue-dark": {
-    title_color: "41b883",
-    icon_color: "41b883",
-    text_color: "fffefe",
-    bg_color: "273849",
-  },
-  
-  -->
+  ##
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Adriana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
