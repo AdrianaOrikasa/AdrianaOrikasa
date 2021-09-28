@@ -1,4 +1,4 @@
-<p style="color:Tomato;">### Olá, Eu sou a Adriana Orikasa</p>
+### Olá, Eu sou a Adriana Orikasa
 
 - 🌱 Estudante de Sistemas da Informação
 - 📫 Curitiba-PR
