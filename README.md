@@ -1,8 +1,11 @@
-### Olá, Eu sou a Adriana Orikasa
+### Hello! I'm Adriana Orikasa
 
-- 🌱 Estudante de Sistemas da Informação
-- 📫 Curitiba-PR
+- 📚 I study information systems
+- 📍 I live in Brazil
 - :love_letter: e-mail: adriana.orikasa@gmail.com
+
+Check my portfolio at: href="https://adrianaorikasa.github.io/Certificard/">My Certificard</a>. Thanks for your visit ☺
+
 
 <div align="center">
   <a href="https://github.com/AdrianaOrikasa">
