@@ -4,7 +4,7 @@
 - 📍 I live in Brazil
 - :love_letter: e-mail: adriana.orikasa@gmail.com
 
-Check my portfolio at: href="https://adrianaorikasa.github.io/Certificard/">My Certificard</a>. Thanks for your visit ☺
+Check my portfolio at: <a href="https://adrianaorikasa.github.io/Certificard/">My Certificard</a>. Thanks for your visit ☺
 
 
 <div align="center">
