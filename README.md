@@ -1,6 +1,6 @@
 ### Hello! I'm Adriana Orikasa
 
-- 📚 I study information systems
+- 📚 Majoring in Information Systems
 - 📍 I live in Brazil
 - :love_letter: Mail: <a href="mailto:adriana.orikasa@gmail.com">My mail</a>
 
