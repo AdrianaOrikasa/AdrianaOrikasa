@@ -3,6 +3,7 @@
 - 📚 Majoring in Information Systems
 - 📍 I live in Brazil
 - :love_letter: Mail: <a href="mailto:adriana.orikasa@gmail.com">My mail</a>
+- 
 
 Check my portfolio at: <a href="https://adrianaorikasa.github.io/Certificard/">My Certificard</a>. Thanks for your visit ☺
 
